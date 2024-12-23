@@ -6,6 +6,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagnik6969" alt="sagnik6969" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/sagnikjana69" target="blank"><img src="https://img.shields.io/twitter/follow/sagnikjana69?logo=twitter&style=for-the-badge" alt="sagnikjana69" /></a> </p>
+
 - 📫 How to reach me **sagnikjana2001@gmail.com**
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/sagnik-jana-3452771ba/)
 
