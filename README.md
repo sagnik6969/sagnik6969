@@ -1,14 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sagnik Jana</h1>
-<h3 align="center">A passionate programmer and Full-Stack Developer with hands-on experience in solving real-world problems. I am currently working as a Software Engineer Intern at Hashedin by Deloitte.</h3>
+# 💫 About Me:
+Hello! I'm Sagnik, a passionate programmer and Full-Stack Developer with hands-on experience in solving real-world problems. I am currently working as a Software Engineer Intern at Hashedin by Deloitte.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnik6969&label=Profile%20views&color=0e75b6&style=flat" alt="sagnik6969" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagnik6969" alt="sagnik6969" /></a> </p> -->
-
-<p align="left"> <a href="https://twitter.com/sagnikjana69" target="blank"><img src="https://img.shields.io/twitter/follow/sagnikjana69?logo=twitter&style=for-the-badge" alt="sagnikjana69" /></a> </p>
-
-- 📫 How to reach me **sagnikjana2001@gmail.com**
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/sagnik-jana-3452771ba/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagnik-jana-3452771ba) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sagnikjana69) 
@@ -20,10 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sagnik6969&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik6969&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- ### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sagnik6969&icon=0&color=0)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=sagnik6969&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
