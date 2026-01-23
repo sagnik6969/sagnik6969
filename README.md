@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Sagnik, a passionate programmer and Full-Stack Developer with hands-on experience in solving real-world problems. I am currently working as a Software Engineer Intern at Hashedin by Deloitte.
+Hello! I'm Sagnik, a passionate programmer and Full-Stack Developer with hands-on experience in solving real-world problems. I am currently working as a Software Engineer 1 at Hashedin by Deloitte.
 
 
 ## 🌐 Socials:
